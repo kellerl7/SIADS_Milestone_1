@@ -1,0 +1,1653 @@
+Data Year,County,Fuel Category,Number of Vehicles
+2010,Alameda,EV,20
+2010,Alameda,Fossil Fuel,885402
+2010,Alpine,EV,0
+2010,Alpine,Fossil Fuel,1041
+2010,Amador,EV,1
+2010,Amador,Fossil Fuel,30480
+2010,Butte,EV,0
+2010,Butte,Fossil Fuel,133169
+2010,Calaveras,EV,0
+2010,Calaveras,Fossil Fuel,39636
+2010,Colusa,EV,0
+2010,Colusa,Fossil Fuel,14610
+2010,Contra Costa,EV,10
+2010,Contra Costa,Fossil Fuel,666294
+2010,Del Norte,EV,0
+2010,Del Norte,Fossil Fuel,16083
+2010,El Dorado,EV,0
+2010,El Dorado,Fossil Fuel,129980
+2010,Fresno,EV,2
+2010,Fresno,Fossil Fuel,481145
+2010,Glenn,EV,0
+2010,Glenn,Fossil Fuel,18720
+2010,Humboldt,EV,2
+2010,Humboldt,Fossil Fuel,90949
+2010,Imperial,EV,0
+2010,Imperial,Fossil Fuel,105807
+2010,Inyo,EV,0
+2010,Inyo,Fossil Fuel,14996
+2010,Kern,EV,1
+2010,Kern,Fossil Fuel,434405
+2010,Kings,EV,0
+2010,Kings,Fossil Fuel,69017
+2010,Lake,EV,1
+2010,Lake,Fossil Fuel,48130
+2010,Lassen,EV,0
+2010,Lassen,Fossil Fuel,19101
+2010,Los Angeles,EV,372
+2010,Los Angeles,Fossil Fuel,5533082
+2010,Madera,EV,0
+2010,Madera,Fossil Fuel,78679
+2010,Marin,EV,15
+2010,Marin,Fossil Fuel,174309
+2010,Mariposa,EV,0
+2010,Mariposa,Fossil Fuel,15601
+2010,Mendocino,EV,0
+2010,Mendocino,Fossil Fuel,66420
+2010,Merced,EV,0
+2010,Merced,Fossil Fuel,132962
+2010,Modoc,EV,0
+2010,Modoc,Fossil Fuel,6566
+2010,Mono,EV,0
+2010,Mono,Fossil Fuel,9500
+2010,Monterey,EV,1
+2010,Monterey,Fossil Fuel,241846
+2010,Napa,EV,4
+2010,Napa,Fossil Fuel,90481
+2010,Nevada,EV,0
+2010,Nevada,Fossil Fuel,74032
+2010,Orange,EV,40
+2010,Orange,Fossil Fuel,1866285
+2010,Out Of State,EV,11
+2010,Out Of State,Fossil Fuel,400173
+2010,Placer,EV,5
+2010,Placer,Fossil Fuel,241078
+2010,Plumas,EV,0
+2010,Plumas,Fossil Fuel,17400
+2010,Riverside,EV,4
+2010,Riverside,Fossil Fuel,1203395
+2010,Sacramento,EV,6
+2010,Sacramento,Fossil Fuel,807914
+2010,San Benito,EV,1
+2010,San Benito,Fossil Fuel,35284
+2010,San Bernardino,EV,4
+2010,San Bernardino,Fossil Fuel,1123942
+2010,San Diego,EV,29
+2010,San Diego,Fossil Fuel,1920251
+2010,San Francisco,EV,24
+2010,San Francisco,Fossil Fuel,355409
+2010,San Joaquin,EV,1
+2010,San Joaquin,Fossil Fuel,377744
+2010,San Luis Obispo,EV,1
+2010,San Luis Obispo,Fossil Fuel,178545
+2010,San Mateo,EV,50
+2010,San Mateo,Fossil Fuel,500508
+2010,Santa Barbara,EV,11
+2010,Santa Barbara,Fossil Fuel,251651
+2010,Santa Clara,EV,93
+2010,Santa Clara,Fossil Fuel,1132294
+2010,Santa Cruz,EV,6
+2010,Santa Cruz,Fossil Fuel,167294
+2010,Shasta,EV,0
+2010,Shasta,Fossil Fuel,120137
+2010,Sierra,EV,0
+2010,Sierra,Fossil Fuel,2779
+2010,Siskiyou,EV,0
+2010,Siskiyou,Fossil Fuel,35462
+2010,Solano,EV,0
+2010,Solano,Fossil Fuel,256503
+2010,Sonoma,EV,8
+2010,Sonoma,Fossil Fuel,321825
+2010,Stanislaus,EV,1
+2010,Stanislaus,Fossil Fuel,288895
+2010,Sutter,EV,0
+2010,Sutter,Fossil Fuel,56545
+2010,Tehama,EV,0
+2010,Tehama,Fossil Fuel,38011
+2010,Trinity,EV,0
+2010,Trinity,Fossil Fuel,10728
+2010,Tulare,EV,1
+2010,Tulare,Fossil Fuel,227826
+2010,Tuolumne,EV,0
+2010,Tuolumne,Fossil Fuel,42495
+2010,Ventura,EV,42
+2010,Ventura,Fossil Fuel,532296
+2010,Yolo,EV,1
+2010,Yolo,Fossil Fuel,109452
+2010,Yuba,EV,0
+2010,Yuba,Fossil Fuel,40798
+2011,Alameda,EV,362
+2011,Alameda,Fossil Fuel,880124
+2011,Alpine,EV,0
+2011,Alpine,Fossil Fuel,971
+2011,Amador,EV,6
+2011,Amador,Fossil Fuel,30485
+2011,Butte,EV,8
+2011,Butte,Fossil Fuel,132458
+2011,Calaveras,EV,4
+2011,Calaveras,Fossil Fuel,39368
+2011,Colusa,EV,0
+2011,Colusa,Fossil Fuel,14506
+2011,Contra Costa,EV,158
+2011,Contra Costa,Fossil Fuel,666604
+2011,Del Norte,EV,0
+2011,Del Norte,Fossil Fuel,15859
+2011,El Dorado,EV,21
+2011,El Dorado,Fossil Fuel,128988
+2011,Fresno,EV,33
+2011,Fresno,Fossil Fuel,481290
+2011,Glenn,EV,0
+2011,Glenn,Fossil Fuel,18682
+2011,Humboldt,EV,9
+2011,Humboldt,Fossil Fuel,89843
+2011,Imperial,EV,1
+2011,Imperial,Fossil Fuel,107635
+2011,Inyo,EV,0
+2011,Inyo,Fossil Fuel,14756
+2011,Kern,EV,26
+2011,Kern,Fossil Fuel,437509
+2011,Kings,EV,3
+2011,Kings,Fossil Fuel,68507
+2011,Lake,EV,3
+2011,Lake,Fossil Fuel,48088
+2011,Lassen,EV,0
+2011,Lassen,Fossil Fuel,18802
+2011,Los Angeles,EV,1461
+2011,Los Angeles,Fossil Fuel,5518332
+2011,Madera,EV,5
+2011,Madera,Fossil Fuel,78711
+2011,Marin,EV,104
+2011,Marin,Fossil Fuel,173842
+2011,Mariposa,EV,1
+2011,Mariposa,Fossil Fuel,15413
+2011,Mendocino,EV,3
+2011,Mendocino,Fossil Fuel,66083
+2011,Merced,EV,3
+2011,Merced,Fossil Fuel,133298
+2011,Modoc,EV,0
+2011,Modoc,Fossil Fuel,6362
+2011,Mono,EV,0
+2011,Mono,Fossil Fuel,9461
+2011,Monterey,EV,27
+2011,Monterey,Fossil Fuel,241465
+2011,Napa,EV,24
+2011,Napa,Fossil Fuel,90281
+2011,Nevada,EV,4
+2011,Nevada,Fossil Fuel,73187
+2011,Orange,EV,446
+2011,Orange,Fossil Fuel,1873732
+2011,Out Of State,EV,195
+2011,Out Of State,Fossil Fuel,415769
+2011,Placer,EV,35
+2011,Placer,Fossil Fuel,240320
+2011,Plumas,EV,0
+2011,Plumas,Fossil Fuel,17017
+2011,Riverside,EV,99
+2011,Riverside,Fossil Fuel,1211549
+2011,Sacramento,EV,101
+2011,Sacramento,Fossil Fuel,804508
+2011,San Benito,EV,4
+2011,San Benito,Fossil Fuel,35178
+2011,San Bernardino,EV,66
+2011,San Bernardino,Fossil Fuel,1122878
+2011,San Diego,EV,781
+2011,San Diego,Fossil Fuel,1915640
+2011,San Francisco,EV,163
+2011,San Francisco,Fossil Fuel,353737
+2011,San Joaquin,EV,20
+2011,San Joaquin,Fossil Fuel,379369
+2011,San Luis Obispo,EV,35
+2011,San Luis Obispo,Fossil Fuel,178630
+2011,San Mateo,EV,339
+2011,San Mateo,Fossil Fuel,504776
+2011,Santa Barbara,EV,79
+2011,Santa Barbara,Fossil Fuel,250966
+2011,Santa Clara,EV,861
+2011,Santa Clara,Fossil Fuel,1133618
+2011,Santa Cruz,EV,50
+2011,Santa Cruz,Fossil Fuel,166606
+2011,Shasta,EV,9
+2011,Shasta,Fossil Fuel,118743
+2011,Sierra,EV,0
+2011,Sierra,Fossil Fuel,2732
+2011,Siskiyou,EV,0
+2011,Siskiyou,Fossil Fuel,34630
+2011,Solano,EV,24
+2011,Solano,Fossil Fuel,255749
+2011,Sonoma,EV,78
+2011,Sonoma,Fossil Fuel,320561
+2011,Stanislaus,EV,17
+2011,Stanislaus,Fossil Fuel,288060
+2011,Sutter,EV,0
+2011,Sutter,Fossil Fuel,56564
+2011,Tehama,EV,2
+2011,Tehama,Fossil Fuel,37791
+2011,Trinity,EV,1
+2011,Trinity,Fossil Fuel,10723
+2011,Tulare,EV,13
+2011,Tulare,Fossil Fuel,227483
+2011,Tuolumne,EV,3
+2011,Tuolumne,Fossil Fuel,42320
+2011,Ventura,EV,155
+2011,Ventura,Fossil Fuel,531086
+2011,Yolo,EV,33
+2011,Yolo,Fossil Fuel,109944
+2011,Yuba,EV,2
+2011,Yuba,Fossil Fuel,40595
+2012,Alameda,EV,1168
+2012,Alameda,Fossil Fuel,884729
+2012,Alpine,EV,0
+2012,Alpine,Fossil Fuel,1011
+2012,Amador,EV,8
+2012,Amador,Fossil Fuel,30356
+2012,Butte,EV,28
+2012,Butte,Fossil Fuel,132130
+2012,Calaveras,EV,8
+2012,Calaveras,Fossil Fuel,39567
+2012,Colusa,EV,0
+2012,Colusa,Fossil Fuel,14489
+2012,Contra Costa,EV,632
+2012,Contra Costa,Fossil Fuel,673659
+2012,Del Norte,EV,3
+2012,Del Norte,Fossil Fuel,15644
+2012,El Dorado,EV,68
+2012,El Dorado,Fossil Fuel,128462
+2012,Fresno,EV,76
+2012,Fresno,Fossil Fuel,486872
+2012,Glenn,EV,0
+2012,Glenn,Fossil Fuel,18733
+2012,Humboldt,EV,21
+2012,Humboldt,Fossil Fuel,89315
+2012,Imperial,EV,4
+2012,Imperial,Fossil Fuel,109630
+2012,Inyo,EV,2
+2012,Inyo,Fossil Fuel,14907
+2012,Kern,EV,62
+2012,Kern,Fossil Fuel,445574
+2012,Kings,EV,3
+2012,Kings,Fossil Fuel,69583
+2012,Lake,EV,10
+2012,Lake,Fossil Fuel,48721
+2012,Lassen,EV,1
+2012,Lassen,Fossil Fuel,18635
+2012,Los Angeles,EV,4734
+2012,Los Angeles,Fossil Fuel,5530860
+2012,Madera,EV,14
+2012,Madera,Fossil Fuel,79537
+2012,Marin,EV,316
+2012,Marin,Fossil Fuel,173364
+2012,Mariposa,EV,2
+2012,Mariposa,Fossil Fuel,15427
+2012,Mendocino,EV,18
+2012,Mendocino,Fossil Fuel,66050
+2012,Merced,EV,16
+2012,Merced,Fossil Fuel,135154
+2012,Modoc,EV,0
+2012,Modoc,Fossil Fuel,6317
+2012,Mono,EV,0
+2012,Mono,Fossil Fuel,9319
+2012,Monterey,EV,76
+2012,Monterey,Fossil Fuel,243736
+2012,Napa,EV,81
+2012,Napa,Fossil Fuel,90674
+2012,Nevada,EV,19
+2012,Nevada,Fossil Fuel,72991
+2012,Orange,EV,2175
+2012,Orange,Fossil Fuel,1881637
+2012,Out Of State,EV,302
+2012,Out Of State,Fossil Fuel,480926
+2012,Placer,EV,118
+2012,Placer,Fossil Fuel,243277
+2012,Plumas,EV,1
+2012,Plumas,Fossil Fuel,16815
+2012,Riverside,EV,445
+2012,Riverside,Fossil Fuel,1228399
+2012,Sacramento,EV,290
+2012,Sacramento,Fossil Fuel,811630
+2012,San Benito,EV,14
+2012,San Benito,Fossil Fuel,35966
+2012,San Bernardino,EV,344
+2012,San Bernardino,Fossil Fuel,1132833
+2012,San Diego,EV,1967
+2012,San Diego,Fossil Fuel,1931167
+2012,San Francisco,EV,507
+2012,San Francisco,Fossil Fuel,354656
+2012,San Joaquin,EV,75
+2012,San Joaquin,Fossil Fuel,382646
+2012,San Luis Obispo,EV,82
+2012,San Luis Obispo,Fossil Fuel,179353
+2012,San Mateo,EV,816
+2012,San Mateo,Fossil Fuel,510352
+2012,Santa Barbara,EV,170
+2012,Santa Barbara,Fossil Fuel,252663
+2012,Santa Clara,EV,2511
+2012,Santa Clara,Fossil Fuel,1140932
+2012,Santa Cruz,EV,154
+2012,Santa Cruz,Fossil Fuel,167095
+2012,Shasta,EV,19
+2012,Shasta,Fossil Fuel,117732
+2012,Sierra,EV,0
+2012,Sierra,Fossil Fuel,2715
+2012,Siskiyou,EV,3
+2012,Siskiyou,Fossil Fuel,34251
+2012,Solano,EV,107
+2012,Solano,Fossil Fuel,257811
+2012,Sonoma,EV,238
+2012,Sonoma,Fossil Fuel,323367
+2012,Stanislaus,EV,40
+2012,Stanislaus,Fossil Fuel,290325
+2012,Sutter,EV,4
+2012,Sutter,Fossil Fuel,56491
+2012,Tehama,EV,4
+2012,Tehama,Fossil Fuel,37842
+2012,Trinity,EV,4
+2012,Trinity,Fossil Fuel,10633
+2012,Tulare,EV,31
+2012,Tulare,Fossil Fuel,230802
+2012,Tuolumne,EV,7
+2012,Tuolumne,Fossil Fuel,41984
+2012,Ventura,EV,491
+2012,Ventura,Fossil Fuel,534659
+2012,Yolo,EV,87
+2012,Yolo,Fossil Fuel,109437
+2012,Yuba,EV,6
+2012,Yuba,Fossil Fuel,40456
+2013,Alameda,EV,3622
+2013,Alameda,Fossil Fuel,917322
+2013,Alpine,EV,2
+2013,Alpine,Fossil Fuel,1039
+2013,Amador,EV,9
+2013,Amador,Fossil Fuel,31461
+2013,Butte,EV,69
+2013,Butte,Fossil Fuel,135830
+2013,Calaveras,EV,27
+2013,Calaveras,Fossil Fuel,40843
+2013,Colusa,EV,1
+2013,Colusa,Fossil Fuel,14997
+2013,Contra Costa,EV,1929
+2013,Contra Costa,Fossil Fuel,698252
+2013,Del Norte,EV,12
+2013,Del Norte,Fossil Fuel,15830
+2013,El Dorado,EV,212
+2013,El Dorado,Fossil Fuel,133050
+2013,Fresno,EV,226
+2013,Fresno,Fossil Fuel,503427
+2013,Glenn,EV,2
+2013,Glenn,Fossil Fuel,19061
+2013,Humboldt,EV,54
+2013,Humboldt,Fossil Fuel,91760
+2013,Imperial,EV,15
+2013,Imperial,Fossil Fuel,113063
+2013,Inyo,EV,6
+2013,Inyo,Fossil Fuel,15218
+2013,Kern,EV,189
+2013,Kern,Fossil Fuel,459264
+2013,Kings,EV,11
+2013,Kings,Fossil Fuel,71228
+2013,Lake,EV,24
+2013,Lake,Fossil Fuel,50061
+2013,Lassen,EV,1
+2013,Lassen,Fossil Fuel,19015
+2013,Los Angeles,EV,13869
+2013,Los Angeles,Fossil Fuel,5690003
+2013,Madera,EV,27
+2013,Madera,Fossil Fuel,82070
+2013,Marin,EV,946
+2013,Marin,Fossil Fuel,178103
+2013,Mariposa,EV,5
+2013,Mariposa,Fossil Fuel,15908
+2013,Mendocino,EV,43
+2013,Mendocino,Fossil Fuel,67977
+2013,Merced,EV,39
+2013,Merced,Fossil Fuel,139433
+2013,Modoc,EV,0
+2013,Modoc,Fossil Fuel,6404
+2013,Mono,EV,1
+2013,Mono,Fossil Fuel,9641
+2013,Monterey,EV,211
+2013,Monterey,Fossil Fuel,251527
+2013,Napa,EV,210
+2013,Napa,Fossil Fuel,94323
+2013,Nevada,EV,52
+2013,Nevada,Fossil Fuel,74537
+2013,Orange,EV,6114
+2013,Orange,Fossil Fuel,1945863
+2013,Out Of State,EV,578
+2013,Out Of State,Fossil Fuel,493804
+2013,Placer,EV,387
+2013,Placer,Fossil Fuel,251830
+2013,Plumas,EV,3
+2013,Plumas,Fossil Fuel,17019
+2013,Riverside,EV,1299
+2013,Riverside,Fossil Fuel,1276953
+2013,Sacramento,EV,1002
+2013,Sacramento,Fossil Fuel,839193
+2013,San Benito,EV,45
+2013,San Benito,Fossil Fuel,37438
+2013,San Bernardino,EV,1003
+2013,San Bernardino,Fossil Fuel,1167485
+2013,San Diego,EV,4448
+2013,San Diego,Fossil Fuel,2003012
+2013,San Francisco,EV,1313
+2013,San Francisco,Fossil Fuel,368001
+2013,San Joaquin,EV,218
+2013,San Joaquin,Fossil Fuel,395126
+2013,San Luis Obispo,EV,251
+2013,San Luis Obispo,Fossil Fuel,185467
+2013,San Mateo,EV,2441
+2013,San Mateo,Fossil Fuel,529074
+2013,Santa Barbara,EV,414
+2013,Santa Barbara,Fossil Fuel,260928
+2013,Santa Clara,EV,7816
+2013,Santa Clara,Fossil Fuel,1178520
+2013,Santa Cruz,EV,546
+2013,Santa Cruz,Fossil Fuel,172542
+2013,Shasta,EV,52
+2013,Shasta,Fossil Fuel,121390
+2013,Sierra,EV,0
+2013,Sierra,Fossil Fuel,2779
+2013,Siskiyou,EV,9
+2013,Siskiyou,Fossil Fuel,35257
+2013,Solano,EV,325
+2013,Solano,Fossil Fuel,267275
+2013,Sonoma,EV,756
+2013,Sonoma,Fossil Fuel,334893
+2013,Stanislaus,EV,108
+2013,Stanislaus,Fossil Fuel,298876
+2013,Sutter,EV,10
+2013,Sutter,Fossil Fuel,58343
+2013,Tehama,EV,6
+2013,Tehama,Fossil Fuel,39408
+2013,Trinity,EV,3
+2013,Trinity,Fossil Fuel,10822
+2013,Tulare,EV,62
+2013,Tulare,Fossil Fuel,238536
+2013,Tuolumne,EV,12
+2013,Tuolumne,Fossil Fuel,43389
+2013,Ventura,EV,1139
+2013,Ventura,Fossil Fuel,548331
+2013,Yolo,EV,259
+2013,Yolo,Fossil Fuel,114271
+2013,Yuba,EV,18
+2013,Yuba,Fossil Fuel,41654
+2014,Alameda,EV,8304
+2014,Alameda,Fossil Fuel,945024
+2014,Alpine,EV,5
+2014,Alpine,Fossil Fuel,1713
+2014,Amador,EV,21
+2014,Amador,Fossil Fuel,32377
+2014,Butte,EV,134
+2014,Butte,Fossil Fuel,138086
+2014,Calaveras,EV,40
+2014,Calaveras,Fossil Fuel,41952
+2014,Colusa,EV,4
+2014,Colusa,Fossil Fuel,15222
+2014,Contra Costa,EV,4233
+2014,Contra Costa,Fossil Fuel,715671
+2014,Del Norte,EV,19
+2014,Del Norte,Fossil Fuel,15688
+2014,El Dorado,EV,460
+2014,El Dorado,Fossil Fuel,135913
+2014,Fresno,EV,740
+2014,Fresno,Fossil Fuel,516116
+2014,Glenn,EV,4
+2014,Glenn,Fossil Fuel,19540
+2014,Humboldt,EV,221
+2014,Humboldt,Fossil Fuel,93068
+2014,Imperial,EV,27
+2014,Imperial,Fossil Fuel,117294
+2014,Inyo,EV,9
+2014,Inyo,Fossil Fuel,15352
+2014,Kern,EV,414
+2014,Kern,Fossil Fuel,471196
+2014,Kings,EV,23
+2014,Kings,Fossil Fuel,72538
+2014,Lake,EV,56
+2014,Lake,Fossil Fuel,51366
+2014,Lassen,EV,5
+2014,Lassen,Fossil Fuel,19019
+2014,Los Angeles,EV,28696
+2014,Los Angeles,Fossil Fuel,5816774
+2014,Madera,EV,85
+2014,Madera,Fossil Fuel,84033
+2014,Marin,EV,1866
+2014,Marin,Fossil Fuel,180602
+2014,Mariposa,EV,11
+2014,Mariposa,Fossil Fuel,16172
+2014,Mendocino,EV,130
+2014,Mendocino,Fossil Fuel,69253
+2014,Merced,EV,91
+2014,Merced,Fossil Fuel,143703
+2014,Modoc,EV,0
+2014,Modoc,Fossil Fuel,6562
+2014,Mono,EV,6
+2014,Mono,Fossil Fuel,9677
+2014,Monterey,EV,509
+2014,Monterey,Fossil Fuel,259198
+2014,Napa,EV,423
+2014,Napa,Fossil Fuel,95647
+2014,Nevada,EV,113
+2014,Nevada,Fossil Fuel,76068
+2014,Orange,EV,12690
+2014,Orange,Fossil Fuel,1991231
+2014,Out Of State,EV,956
+2014,Out Of State,Fossil Fuel,507906
+2014,Placer,EV,882
+2014,Placer,Fossil Fuel,258140
+2014,Plumas,EV,6
+2014,Plumas,Fossil Fuel,17236
+2014,Riverside,EV,2933
+2014,Riverside,Fossil Fuel,1317751
+2014,Sacramento,EV,2229
+2014,Sacramento,Fossil Fuel,863881
+2014,San Benito,EV,99
+2014,San Benito,Fossil Fuel,38532
+2014,San Bernardino,EV,2295
+2014,San Bernardino,Fossil Fuel,1201860
+2014,San Diego,EV,8186
+2014,San Diego,Fossil Fuel,2045488
+2014,San Francisco,EV,2618
+2014,San Francisco,Fossil Fuel,373808
+2014,San Joaquin,EV,537
+2014,San Joaquin,Fossil Fuel,409085
+2014,San Luis Obispo,EV,476
+2014,San Luis Obispo,Fossil Fuel,189554
+2014,San Mateo,EV,4491
+2014,San Mateo,Fossil Fuel,545796
+2014,Santa Barbara,EV,755
+2014,Santa Barbara,Fossil Fuel,268208
+2014,Santa Clara,EV,16156
+2014,Santa Clara,Fossil Fuel,1204964
+2014,Santa Cruz,EV,1090
+2014,Santa Cruz,Fossil Fuel,176901
+2014,Shasta,EV,97
+2014,Shasta,Fossil Fuel,121875
+2014,Sierra,EV,1
+2014,Sierra,Fossil Fuel,2839
+2014,Siskiyou,EV,20
+2014,Siskiyou,Fossil Fuel,35444
+2014,Solano,EV,767
+2014,Solano,Fossil Fuel,274494
+2014,Sonoma,EV,1821
+2014,Sonoma,Fossil Fuel,343411
+2014,Stanislaus,EV,238
+2014,Stanislaus,Fossil Fuel,307763
+2014,Sutter,EV,34
+2014,Sutter,Fossil Fuel,59875
+2014,Tehama,EV,22
+2014,Tehama,Fossil Fuel,41992
+2014,Trinity,EV,5
+2014,Trinity,Fossil Fuel,10958
+2014,Tulare,EV,126
+2014,Tulare,Fossil Fuel,244945
+2014,Tuolumne,EV,26
+2014,Tuolumne,Fossil Fuel,44410
+2014,Ventura,EV,2243
+2014,Ventura,Fossil Fuel,557822
+2014,Yolo,EV,498
+2014,Yolo,Fossil Fuel,117003
+2014,Yuba,EV,31
+2014,Yuba,Fossil Fuel,42531
+2015,Alameda,EV,13197
+2015,Alameda,Fossil Fuel,962566
+2015,Alpine,EV,3
+2015,Alpine,Fossil Fuel,2713
+2015,Amador,EV,44
+2015,Amador,Fossil Fuel,32765
+2015,Butte,EV,178
+2015,Butte,Fossil Fuel,139988
+2015,Calaveras,EV,53
+2015,Calaveras,Fossil Fuel,42461
+2015,Colusa,EV,6
+2015,Colusa,Fossil Fuel,15531
+2015,Contra Costa,EV,6769
+2015,Contra Costa,Fossil Fuel,730630
+2015,Del Norte,EV,26
+2015,Del Norte,Fossil Fuel,16035
+2015,El Dorado,EV,679
+2015,El Dorado,Fossil Fuel,137350
+2015,Fresno,EV,1306
+2015,Fresno,Fossil Fuel,530921
+2015,Glenn,EV,11
+2015,Glenn,Fossil Fuel,19773
+2015,Humboldt,EV,455
+2015,Humboldt,Fossil Fuel,94136
+2015,Imperial,EV,42
+2015,Imperial,Fossil Fuel,122830
+2015,Inyo,EV,12
+2015,Inyo,Fossil Fuel,15536
+2015,Kern,EV,684
+2015,Kern,Fossil Fuel,481923
+2015,Kings,EV,45
+2015,Kings,Fossil Fuel,74305
+2015,Lake,EV,90
+2015,Lake,Fossil Fuel,51696
+2015,Lassen,EV,6
+2015,Lassen,Fossil Fuel,19393
+2015,Los Angeles,EV,42952
+2015,Los Angeles,Fossil Fuel,5919211
+2015,Madera,EV,138
+2015,Madera,Fossil Fuel,86283
+2015,Marin,EV,2826
+2015,Marin,Fossil Fuel,179826
+2015,Mariposa,EV,13
+2015,Mariposa,Fossil Fuel,16249
+2015,Mendocino,EV,294
+2015,Mendocino,Fossil Fuel,69993
+2015,Merced,EV,153
+2015,Merced,Fossil Fuel,147554
+2015,Modoc,EV,1
+2015,Modoc,Fossil Fuel,6621
+2015,Mono,EV,8
+2015,Mono,Fossil Fuel,9766
+2015,Monterey,EV,794
+2015,Monterey,Fossil Fuel,265100
+2015,Napa,EV,627
+2015,Napa,Fossil Fuel,97255
+2015,Nevada,EV,204
+2015,Nevada,Fossil Fuel,76456
+2015,Orange,EV,19338
+2015,Orange,Fossil Fuel,2015540
+2015,Out Of State,EV,1047
+2015,Out Of State,Fossil Fuel,515118
+2015,Placer,EV,1356
+2015,Placer,Fossil Fuel,261815
+2015,Plumas,EV,6
+2015,Plumas,Fossil Fuel,17197
+2015,Riverside,EV,4510
+2015,Riverside,Fossil Fuel,1359641
+2015,Sacramento,EV,3358
+2015,Sacramento,Fossil Fuel,886961
+2015,San Benito,EV,143
+2015,San Benito,Fossil Fuel,39647
+2015,San Bernardino,EV,3506
+2015,San Bernardino,Fossil Fuel,1236579
+2015,San Diego,EV,12054
+2015,San Diego,Fossil Fuel,2083973
+2015,San Francisco,EV,4045
+2015,San Francisco,Fossil Fuel,374022
+2015,San Joaquin,EV,867
+2015,San Joaquin,Fossil Fuel,422665
+2015,San Luis Obispo,EV,766
+2015,San Luis Obispo,Fossil Fuel,191906
+2015,San Mateo,EV,6854
+2015,San Mateo,Fossil Fuel,555410
+2015,Santa Barbara,EV,1069
+2015,Santa Barbara,Fossil Fuel,272577
+2015,Santa Clara,EV,24812
+2015,Santa Clara,Fossil Fuel,1222380
+2015,Santa Cruz,EV,1702
+2015,Santa Cruz,Fossil Fuel,178558
+2015,Shasta,EV,144
+2015,Shasta,Fossil Fuel,122772
+2015,Sierra,EV,2
+2015,Sierra,Fossil Fuel,2912
+2015,Siskiyou,EV,28
+2015,Siskiyou,Fossil Fuel,35994
+2015,Solano,EV,1242
+2015,Solano,Fossil Fuel,282424
+2015,Sonoma,EV,2946
+2015,Sonoma,Fossil Fuel,347000
+2015,Stanislaus,EV,464
+2015,Stanislaus,Fossil Fuel,316995
+2015,Sutter,EV,48
+2015,Sutter,Fossil Fuel,61151
+2015,Tehama,EV,27
+2015,Tehama,Fossil Fuel,41890
+2015,Trinity,EV,10
+2015,Trinity,Fossil Fuel,11050
+2015,Tulare,EV,201
+2015,Tulare,Fossil Fuel,251351
+2015,Tuolumne,EV,42
+2015,Tuolumne,Fossil Fuel,45045
+2015,Ventura,EV,3303
+2015,Ventura,Fossil Fuel,566173
+2015,Yolo,EV,697
+2015,Yolo,Fossil Fuel,119085
+2015,Yuba,EV,44
+2015,Yuba,Fossil Fuel,43345
+2016,Alameda,EV,18141
+2016,Alameda,Fossil Fuel,997320
+2016,Alpine,EV,4
+2016,Alpine,Fossil Fuel,1699
+2016,Amador,EV,58
+2016,Amador,Fossil Fuel,33884
+2016,Butte,EV,245
+2016,Butte,Fossil Fuel,144796
+2016,Calaveras,EV,75
+2016,Calaveras,Fossil Fuel,44215
+2016,Colusa,EV,8
+2016,Colusa,Fossil Fuel,16305
+2016,Contra Costa,EV,9293
+2016,Contra Costa,Fossil Fuel,756822
+2016,Del Norte,EV,36
+2016,Del Norte,Fossil Fuel,16389
+2016,El Dorado,EV,927
+2016,El Dorado,Fossil Fuel,142202
+2016,Fresno,EV,2054
+2016,Fresno,Fossil Fuel,554754
+2016,Glenn,EV,19
+2016,Glenn,Fossil Fuel,20701
+2016,Humboldt,EV,673
+2016,Humboldt,Fossil Fuel,97681
+2016,Imperial,EV,62
+2016,Imperial,Fossil Fuel,131459
+2016,Inyo,EV,15
+2016,Inyo,Fossil Fuel,15941
+2016,Kern,EV,987
+2016,Kern,Fossil Fuel,497026
+2016,Kings,EV,93
+2016,Kings,Fossil Fuel,76498
+2016,Lake,EV,115
+2016,Lake,Fossil Fuel,54241
+2016,Lassen,EV,6
+2016,Lassen,Fossil Fuel,19526
+2016,Los Angeles,EV,60589
+2016,Los Angeles,Fossil Fuel,6154945
+2016,Madera,EV,192
+2016,Madera,Fossil Fuel,89419
+2016,Marin,EV,3858
+2016,Marin,Fossil Fuel,183934
+2016,Mariposa,EV,22
+2016,Mariposa,Fossil Fuel,16555
+2016,Mendocino,EV,440
+2016,Mendocino,Fossil Fuel,73250
+2016,Merced,EV,226
+2016,Merced,Fossil Fuel,155608
+2016,Modoc,EV,2
+2016,Modoc,Fossil Fuel,6775
+2016,Mono,EV,15
+2016,Mono,Fossil Fuel,10289
+2016,Monterey,EV,1093
+2016,Monterey,Fossil Fuel,276640
+2016,Napa,EV,888
+2016,Napa,Fossil Fuel,100108
+2016,Nevada,EV,324
+2016,Nevada,Fossil Fuel,79306
+2016,Orange,EV,26956
+2016,Orange,Fossil Fuel,2090818
+2016,Out Of State,EV,1174
+2016,Out Of State,Fossil Fuel,413288
+2016,Placer,EV,1829
+2016,Placer,Fossil Fuel,272468
+2016,Plumas,EV,11
+2016,Plumas,Fossil Fuel,17894
+2016,Riverside,EV,6329
+2016,Riverside,Fossil Fuel,1426424
+2016,Sacramento,EV,4569
+2016,Sacramento,Fossil Fuel,924973
+2016,San Benito,EV,209
+2016,San Benito,Fossil Fuel,41896
+2016,San Bernardino,EV,4911
+2016,San Bernardino,Fossil Fuel,1291619
+2016,San Diego,EV,16914
+2016,San Diego,Fossil Fuel,2165631
+2016,San Francisco,EV,5558
+2016,San Francisco,Fossil Fuel,382460
+2016,San Joaquin,EV,1439
+2016,San Joaquin,Fossil Fuel,444390
+2016,San Luis Obispo,EV,1061
+2016,San Luis Obispo,Fossil Fuel,197388
+2016,San Mateo,EV,9419
+2016,San Mateo,Fossil Fuel,567082
+2016,Santa Barbara,EV,1568
+2016,Santa Barbara,Fossil Fuel,283308
+2016,Santa Clara,EV,33659
+2016,Santa Clara,Fossil Fuel,1261508
+2016,Santa Cruz,EV,2275
+2016,Santa Cruz,Fossil Fuel,185146
+2016,Shasta,EV,191
+2016,Shasta,Fossil Fuel,126316
+2016,Sierra,EV,3
+2016,Sierra,Fossil Fuel,3022
+2016,Siskiyou,EV,35
+2016,Siskiyou,Fossil Fuel,37724
+2016,Solano,EV,1645
+2016,Solano,Fossil Fuel,292578
+2016,Sonoma,EV,4089
+2016,Sonoma,Fossil Fuel,359813
+2016,Stanislaus,EV,810
+2016,Stanislaus,Fossil Fuel,333680
+2016,Sutter,EV,70
+2016,Sutter,Fossil Fuel,63565
+2016,Tehama,EV,33
+2016,Tehama,Fossil Fuel,42937
+2016,Trinity,EV,18
+2016,Trinity,Fossil Fuel,11388
+2016,Tulare,EV,281
+2016,Tulare,Fossil Fuel,263354
+2016,Tuolumne,EV,59
+2016,Tuolumne,Fossil Fuel,46649
+2016,Ventura,EV,4449
+2016,Ventura,Fossil Fuel,584235
+2016,Yolo,EV,933
+2016,Yolo,Fossil Fuel,124121
+2016,Yuba,EV,68
+2016,Yuba,Fossil Fuel,45695
+2017,Alameda,EV,24927
+2017,Alameda,Fossil Fuel,1111061
+2017,Alpine,EV,3
+2017,Alpine,Fossil Fuel,1527
+2017,Amador,EV,92
+2017,Amador,Fossil Fuel,38303
+2017,Butte,EV,395
+2017,Butte,Fossil Fuel,162254
+2017,Calaveras,EV,115
+2017,Calaveras,Fossil Fuel,50157
+2017,Colusa,EV,12
+2017,Colusa,Fossil Fuel,18276
+2017,Contra Costa,EV,12972
+2017,Contra Costa,Fossil Fuel,848104
+2017,Del Norte,EV,47
+2017,Del Norte,Fossil Fuel,18299
+2017,El Dorado,EV,1322
+2017,El Dorado,Fossil Fuel,161188
+2017,Fresno,EV,3198
+2017,Fresno,Fossil Fuel,628363
+2017,Glenn,EV,24
+2017,Glenn,Fossil Fuel,23472
+2017,Humboldt,EV,960
+2017,Humboldt,Fossil Fuel,108338
+2017,Imperial,EV,109
+2017,Imperial,Fossil Fuel,149855
+2017,Inyo,EV,26
+2017,Inyo,Fossil Fuel,18114
+2017,Kern,EV,1493
+2017,Kern,Fossil Fuel,558042
+2017,Kings,EV,184
+2017,Kings,Fossil Fuel,86788
+2017,Lake,EV,203
+2017,Lake,Fossil Fuel,61025
+2017,Lassen,EV,8
+2017,Lassen,Fossil Fuel,21564
+2017,Los Angeles,EV,85094
+2017,Los Angeles,Fossil Fuel,6848320
+2017,Madera,EV,281
+2017,Madera,Fossil Fuel,101652
+2017,Marin,EV,5262
+2017,Marin,Fossil Fuel,203780
+2017,Mariposa,EV,28
+2017,Mariposa,Fossil Fuel,18468
+2017,Mendocino,EV,601
+2017,Mendocino,Fossil Fuel,81333
+2017,Merced,EV,348
+2017,Merced,Fossil Fuel,177219
+2017,Modoc,EV,2
+2017,Modoc,Fossil Fuel,7764
+2017,Mono,EV,22
+2017,Mono,Fossil Fuel,11550
+2017,Monterey,EV,1567
+2017,Monterey,Fossil Fuel,311513
+2017,Napa,EV,1223
+2017,Napa,Fossil Fuel,111695
+2017,Nevada,EV,476
+2017,Nevada,Fossil Fuel,89168
+2017,Orange,EV,38954
+2017,Orange,Fossil Fuel,2339967
+2017,Out Of State,EV,2120
+2017,Out Of State,Fossil Fuel,445519
+2017,Placer,EV,2648
+2017,Placer,Fossil Fuel,308969
+2017,Plumas,EV,18
+2017,Plumas,Fossil Fuel,20174
+2017,Riverside,EV,9837
+2017,Riverside,Fossil Fuel,1622197
+2017,Sacramento,EV,6966
+2017,Sacramento,Fossil Fuel,1046050
+2017,San Benito,EV,347
+2017,San Benito,Fossil Fuel,47857
+2017,San Bernardino,EV,7462
+2017,San Bernardino,Fossil Fuel,1463174
+2017,San Diego,EV,23410
+2017,San Diego,Fossil Fuel,2434586
+2017,San Francisco,EV,7824
+2017,San Francisco,Fossil Fuel,420275
+2017,San Joaquin,EV,2332
+2017,San Joaquin,Fossil Fuel,507686
+2017,San Luis Obispo,EV,1648
+2017,San Luis Obispo,Fossil Fuel,220486
+2017,San Mateo,EV,12702
+2017,San Mateo,Fossil Fuel,637236
+2017,Santa Barbara,EV,2376
+2017,Santa Barbara,Fossil Fuel,317555
+2017,Santa Clara,EV,44448
+2017,Santa Clara,Fossil Fuel,1402093
+2017,Santa Cruz,EV,3062
+2017,Santa Cruz,Fossil Fuel,206951
+2017,Shasta,EV,296
+2017,Shasta,Fossil Fuel,140389
+2017,Sierra,EV,3
+2017,Sierra,Fossil Fuel,3392
+2017,Siskiyou,EV,48
+2017,Siskiyou,Fossil Fuel,41854
+2017,Solano,EV,2431
+2017,Solano,Fossil Fuel,330279
+2017,Sonoma,EV,6263
+2017,Sonoma,Fossil Fuel,400994
+2017,Stanislaus,EV,1190
+2017,Stanislaus,Fossil Fuel,378035
+2017,Sutter,EV,113
+2017,Sutter,Fossil Fuel,71648
+2017,Tehama,EV,56
+2017,Tehama,Fossil Fuel,47705
+2017,Trinity,EV,22
+2017,Trinity,Fossil Fuel,12372
+2017,Tulare,EV,609
+2017,Tulare,Fossil Fuel,299138
+2017,Tuolumne,EV,95
+2017,Tuolumne,Fossil Fuel,52475
+2017,Ventura,EV,6284
+2017,Ventura,Fossil Fuel,654094
+2017,Yolo,EV,1374
+2017,Yolo,Fossil Fuel,140187
+2017,Yuba,EV,101
+2017,Yuba,Fossil Fuel,51477
+2018,Alameda,EV,34732
+2018,Alameda,Fossil Fuel,1111143
+2018,Alpine,EV,4
+2018,Alpine,Fossil Fuel,1529
+2018,Amador,EV,128
+2018,Amador,Fossil Fuel,38533
+2018,Butte,EV,588
+2018,Butte,Fossil Fuel,161666
+2018,Calaveras,EV,177
+2018,Calaveras,Fossil Fuel,50452
+2018,Colusa,EV,21
+2018,Colusa,Fossil Fuel,18425
+2018,Contra Costa,EV,18421
+2018,Contra Costa,Fossil Fuel,852483
+2018,Del Norte,EV,64
+2018,Del Norte,Fossil Fuel,18683
+2018,El Dorado,EV,1905
+2018,El Dorado,Fossil Fuel,162960
+2018,Fresno,EV,4154
+2018,Fresno,Fossil Fuel,641795
+2018,Glenn,EV,35
+2018,Glenn,Fossil Fuel,23835
+2018,Humboldt,EV,1170
+2018,Humboldt,Fossil Fuel,107341
+2018,Imperial,EV,163
+2018,Imperial,Fossil Fuel,152977
+2018,Inyo,EV,42
+2018,Inyo,Fossil Fuel,18335
+2018,Kern,EV,2094
+2018,Kern,Fossil Fuel,566986
+2018,Kings,EV,273
+2018,Kings,Fossil Fuel,87961
+2018,Lake,EV,265
+2018,Lake,Fossil Fuel,61418
+2018,Lassen,EV,14
+2018,Lassen,Fossil Fuel,21578
+2018,Los Angeles,EV,115035
+2018,Los Angeles,Fossil Fuel,6835247
+2018,Madera,EV,362
+2018,Madera,Fossil Fuel,103610
+2018,Marin,EV,6991
+2018,Marin,Fossil Fuel,202836
+2018,Mariposa,EV,57
+2018,Mariposa,Fossil Fuel,18357
+2018,Mendocino,EV,726
+2018,Mendocino,Fossil Fuel,81304
+2018,Merced,EV,568
+2018,Merced,Fossil Fuel,181566
+2018,Modoc,EV,6
+2018,Modoc,Fossil Fuel,7804
+2018,Mono,EV,31
+2018,Mono,Fossil Fuel,11640
+2018,Monterey,EV,2259
+2018,Monterey,Fossil Fuel,316496
+2018,Napa,EV,1650
+2018,Napa,Fossil Fuel,112241
+2018,Nevada,EV,682
+2018,Nevada,Fossil Fuel,89660
+2018,Orange,EV,54835
+2018,Orange,Fossil Fuel,2346791
+2018,Out Of State,EV,3981
+2018,Out Of State,Fossil Fuel,428492
+2018,Placer,EV,3839
+2018,Placer,Fossil Fuel,315501
+2018,Plumas,EV,28
+2018,Plumas,Fossil Fuel,20474
+2018,Riverside,EV,14204
+2018,Riverside,Fossil Fuel,1651047
+2018,Sacramento,EV,10450
+2018,Sacramento,Fossil Fuel,1059363
+2018,San Benito,EV,479
+2018,San Benito,Fossil Fuel,49468
+2018,San Bernardino,EV,10823
+2018,San Bernardino,Fossil Fuel,1484400
+2018,San Diego,EV,33830
+2018,San Diego,Fossil Fuel,2443263
+2018,San Francisco,EV,11278
+2018,San Francisco,Fossil Fuel,414271
+2018,San Joaquin,EV,3469
+2018,San Joaquin,Fossil Fuel,519661
+2018,San Luis Obispo,EV,2476
+2018,San Luis Obispo,Fossil Fuel,221429
+2018,San Mateo,EV,18271
+2018,San Mateo,Fossil Fuel,641943
+2018,Santa Barbara,EV,3354
+2018,Santa Barbara,Fossil Fuel,319786
+2018,Santa Clara,EV,60245
+2018,Santa Clara,Fossil Fuel,1399036
+2018,Santa Cruz,EV,4004
+2018,Santa Cruz,Fossil Fuel,206571
+2018,Shasta,EV,442
+2018,Shasta,Fossil Fuel,140931
+2018,Sierra,EV,6
+2018,Sierra,Fossil Fuel,3379
+2018,Siskiyou,EV,69
+2018,Siskiyou,Fossil Fuel,41672
+2018,Solano,EV,3421
+2018,Solano,Fossil Fuel,335672
+2018,Sonoma,EV,8008
+2018,Sonoma,Fossil Fuel,400422
+2018,Stanislaus,EV,1605
+2018,Stanislaus,Fossil Fuel,385092
+2018,Sutter,EV,174
+2018,Sutter,Fossil Fuel,72395
+2018,Tehama,EV,75
+2018,Tehama,Fossil Fuel,47941
+2018,Trinity,EV,26
+2018,Trinity,Fossil Fuel,12032
+2018,Tulare,EV,853
+2018,Tulare,Fossil Fuel,303924
+2018,Tuolumne,EV,136
+2018,Tuolumne,Fossil Fuel,53097
+2018,Ventura,EV,8930
+2018,Ventura,Fossil Fuel,656711
+2018,Yolo,EV,2016
+2018,Yolo,Fossil Fuel,141511
+2018,Yuba,EV,148
+2018,Yuba,Fossil Fuel,52265
+2019,Alameda,EV,42887
+2019,Alameda,Fossil Fuel,1110435
+2019,Alpine,EV,6
+2019,Alpine,Fossil Fuel,1553
+2019,Amador,EV,175
+2019,Amador,Fossil Fuel,39132
+2019,Butte,EV,796
+2019,Butte,Fossil Fuel,154139
+2019,Calaveras,EV,224
+2019,Calaveras,Fossil Fuel,50718
+2019,Colusa,EV,28
+2019,Colusa,Fossil Fuel,18803
+2019,Contra Costa,EV,23018
+2019,Contra Costa,Fossil Fuel,857731
+2019,Del Norte,EV,76
+2019,Del Norte,Fossil Fuel,19000
+2019,El Dorado,EV,2391
+2019,El Dorado,Fossil Fuel,163945
+2019,Fresno,EV,5015
+2019,Fresno,Fossil Fuel,657283
+2019,Glenn,EV,53
+2019,Glenn,Fossil Fuel,24410
+2019,Humboldt,EV,1367
+2019,Humboldt,Fossil Fuel,107404
+2019,Imperial,EV,234
+2019,Imperial,Fossil Fuel,157228
+2019,Inyo,EV,53
+2019,Inyo,Fossil Fuel,18515
+2019,Kern,EV,2787
+2019,Kern,Fossil Fuel,577670
+2019,Kings,EV,367
+2019,Kings,Fossil Fuel,90430
+2019,Lake,EV,355
+2019,Lake,Fossil Fuel,61883
+2019,Lassen,EV,13
+2019,Lassen,Fossil Fuel,21814
+2019,Los Angeles,EV,141521
+2019,Los Angeles,Fossil Fuel,6827293
+2019,Madera,EV,480
+2019,Madera,Fossil Fuel,106033
+2019,Marin,EV,8498
+2019,Marin,Fossil Fuel,200569
+2019,Mariposa,EV,69
+2019,Mariposa,Fossil Fuel,18598
+2019,Mendocino,EV,847
+2019,Mendocino,Fossil Fuel,82115
+2019,Merced,EV,784
+2019,Merced,Fossil Fuel,186554
+2019,Modoc,EV,2
+2019,Modoc,Fossil Fuel,7815
+2019,Mono,EV,41
+2019,Mono,Fossil Fuel,11928
+2019,Monterey,EV,2880
+2019,Monterey,Fossil Fuel,320258
+2019,Napa,EV,2009
+2019,Napa,Fossil Fuel,112200
+2019,Nevada,EV,886
+2019,Nevada,Fossil Fuel,90006
+2019,Orange,EV,68931
+2019,Orange,Fossil Fuel,2352220
+2019,Out Of State,EV,4675
+2019,Out Of State,Fossil Fuel,486771
+2019,Placer,EV,5216
+2019,Placer,Fossil Fuel,322815
+2019,Plumas,EV,34
+2019,Plumas,Fossil Fuel,20747
+2019,Riverside,EV,19213
+2019,Riverside,Fossil Fuel,1686102
+2019,Sacramento,EV,13923
+2019,Sacramento,Fossil Fuel,1076888
+2019,San Benito,EV,602
+2019,San Benito,Fossil Fuel,50944
+2019,San Bernardino,EV,14651
+2019,San Bernardino,Fossil Fuel,1510228
+2019,San Diego,EV,44168
+2019,San Diego,Fossil Fuel,2453257
+2019,San Francisco,EV,13771
+2019,San Francisco,Fossil Fuel,407385
+2019,San Joaquin,EV,4822
+2019,San Joaquin,Fossil Fuel,532035
+2019,San Luis Obispo,EV,3316
+2019,San Luis Obispo,Fossil Fuel,222583
+2019,San Mateo,EV,22710
+2019,San Mateo,Fossil Fuel,645794
+2019,Santa Barbara,EV,4201
+2019,Santa Barbara,Fossil Fuel,322735
+2019,Santa Clara,EV,71344
+2019,Santa Clara,Fossil Fuel,1390964
+2019,Santa Cruz,EV,4887
+2019,Santa Cruz,Fossil Fuel,206461
+2019,Shasta,EV,578
+2019,Shasta,Fossil Fuel,142345
+2019,Sierra,EV,3
+2019,Sierra,Fossil Fuel,3439
+2019,Siskiyou,EV,83
+2019,Siskiyou,Fossil Fuel,42039
+2019,Solano,EV,4512
+2019,Solano,Fossil Fuel,338919
+2019,Sonoma,EV,9131
+2019,Sonoma,Fossil Fuel,401497
+2019,Stanislaus,EV,2153
+2019,Stanislaus,Fossil Fuel,393560
+2019,Sutter,EV,284
+2019,Sutter,Fossil Fuel,73793
+2019,Tehama,EV,109
+2019,Tehama,Fossil Fuel,49076
+2019,Trinity,EV,33
+2019,Trinity,Fossil Fuel,11991
+2019,Tulare,EV,1166
+2019,Tulare,Fossil Fuel,311412
+2019,Tuolumne,EV,191
+2019,Tuolumne,Fossil Fuel,53674
+2019,Ventura,EV,11468
+2019,Ventura,Fossil Fuel,661074
+2019,Yolo,EV,2629
+2019,Yolo,Fossil Fuel,142968
+2019,Yuba,EV,236
+2019,Yuba,Fossil Fuel,53707
+2020,Alameda,EV,46249
+2020,Alameda,Fossil Fuel,1081947
+2020,Alpine,EV,11
+2020,Alpine,Fossil Fuel,1588
+2020,Amador,EV,227
+2020,Amador,Fossil Fuel,39360
+2020,Butte,EV,982
+2020,Butte,Fossil Fuel,150600
+2020,Calaveras,EV,276
+2020,Calaveras,Fossil Fuel,50925
+2020,Colusa,EV,46
+2020,Colusa,Fossil Fuel,19002
+2020,Contra Costa,EV,26161
+2020,Contra Costa,Fossil Fuel,844872
+2020,Del Norte,EV,92
+2020,Del Norte,Fossil Fuel,19235
+2020,El Dorado,EV,2804
+2020,El Dorado,Fossil Fuel,163473
+2020,Fresno,EV,5481
+2020,Fresno,Fossil Fuel,669380
+2020,Glenn,EV,65
+2020,Glenn,Fossil Fuel,24519
+2020,Humboldt,EV,1475
+2020,Humboldt,Fossil Fuel,107979
+2020,Imperial,EV,288
+2020,Imperial,Fossil Fuel,163755
+2020,Inyo,EV,79
+2020,Inyo,Fossil Fuel,18481
+2020,Kern,EV,3224
+2020,Kern,Fossil Fuel,586385
+2020,Kings,EV,380
+2020,Kings,Fossil Fuel,92193
+2020,Lake,EV,376
+2020,Lake,Fossil Fuel,62729
+2020,Lassen,EV,14
+2020,Lassen,Fossil Fuel,21757
+2020,Los Angeles,EV,156698
+2020,Los Angeles,Fossil Fuel,6635509
+2020,Madera,EV,574
+2020,Madera,Fossil Fuel,108140
+2020,Marin,EV,9709
+2020,Marin,Fossil Fuel,195061
+2020,Mariposa,EV,81
+2020,Mariposa,Fossil Fuel,18196
+2020,Mendocino,EV,925
+2020,Mendocino,Fossil Fuel,82479
+2020,Merced,EV,968
+2020,Merced,Fossil Fuel,191277
+2020,Modoc,EV,1
+2020,Modoc,Fossil Fuel,7931
+2020,Mono,EV,67
+2020,Mono,Fossil Fuel,11792
+2020,Monterey,EV,3434
+2020,Monterey,Fossil Fuel,320016
+2020,Napa,EV,2368
+2020,Napa,Fossil Fuel,109910
+2020,Nevada,EV,1115
+2020,Nevada,Fossil Fuel,89113
+2020,Orange,EV,78256
+2020,Orange,Fossil Fuel,2303310
+2020,Out Of State,EV,4587
+2020,Out Of State,Fossil Fuel,439347
+2020,Placer,EV,6405
+2020,Placer,Fossil Fuel,321560
+2020,Plumas,EV,52
+2020,Plumas,Fossil Fuel,20630
+2020,Riverside,EV,23091
+2020,Riverside,Fossil Fuel,1704293
+2020,Sacramento,EV,16072
+2020,Sacramento,Fossil Fuel,1076112
+2020,San Benito,EV,721
+2020,San Benito,Fossil Fuel,51849
+2020,San Bernardino,EV,17465
+2020,San Bernardino,Fossil Fuel,1523639
+2020,San Diego,EV,51800
+2020,San Diego,Fossil Fuel,2425831
+2020,San Francisco,EV,16242
+2020,San Francisco,Fossil Fuel,393475
+2020,San Joaquin,EV,5946
+2020,San Joaquin,Fossil Fuel,540500
+2020,San Luis Obispo,EV,3965
+2020,San Luis Obispo,Fossil Fuel,220063
+2020,San Mateo,EV,25046
+2020,San Mateo,Fossil Fuel,582705
+2020,Santa Barbara,EV,5121
+2020,Santa Barbara,Fossil Fuel,320797
+2020,Santa Clara,EV,74125
+2020,Santa Clara,Fossil Fuel,1336130
+2020,Santa Cruz,EV,5438
+2020,Santa Cruz,Fossil Fuel,202034
+2020,Shasta,EV,734
+2020,Shasta,Fossil Fuel,142748
+2020,Sierra,EV,7
+2020,Sierra,Fossil Fuel,3461
+2020,Siskiyou,EV,98
+2020,Siskiyou,Fossil Fuel,41788
+2020,Solano,EV,5151
+2020,Solano,Fossil Fuel,338325
+2020,Sonoma,EV,9877
+2020,Sonoma,Fossil Fuel,397692
+2020,Stanislaus,EV,2610
+2020,Stanislaus,Fossil Fuel,399746
+2020,Sutter,EV,364
+2020,Sutter,Fossil Fuel,73601
+2020,Tehama,EV,143
+2020,Tehama,Fossil Fuel,48969
+2020,Trinity,EV,47
+2020,Trinity,Fossil Fuel,11943
+2020,Tulare,EV,1393
+2020,Tulare,Fossil Fuel,318816
+2020,Tuolumne,EV,240
+2020,Tuolumne,Fossil Fuel,53232
+2020,Ventura,EV,13166
+2020,Ventura,Fossil Fuel,655209
+2020,Yolo,EV,2979
+2020,Yolo,Fossil Fuel,140577
+2020,Yuba,EV,291
+2020,Yuba,Fossil Fuel,54346
+2021,Alameda,EV,57033
+2021,Alameda,Fossil Fuel,1104108
+2021,Alpine,EV,20
+2021,Alpine,Fossil Fuel,1622
+2021,Amador,EV,302
+2021,Amador,Fossil Fuel,42201
+2021,Butte,EV,1329
+2021,Butte,Fossil Fuel,157967
+2021,Calaveras,EV,369
+2021,Calaveras,Fossil Fuel,54320
+2021,Colusa,EV,76
+2021,Colusa,Fossil Fuel,20087
+2021,Contra Costa,EV,33850
+2021,Contra Costa,Fossil Fuel,870216
+2021,Del Norte,EV,110
+2021,Del Norte,Fossil Fuel,20619
+2021,El Dorado,EV,3665
+2021,El Dorado,Fossil Fuel,169451
+2021,Fresno,EV,7704
+2021,Fresno,Fossil Fuel,705260
+2021,Glenn,EV,102
+2021,Glenn,Fossil Fuel,26068
+2021,Humboldt,EV,1801
+2021,Humboldt,Fossil Fuel,112127
+2021,Imperial,EV,517
+2021,Imperial,Fossil Fuel,176590
+2021,Inyo,EV,124
+2021,Inyo,Fossil Fuel,20251
+2021,Kern,EV,4967
+2021,Kern,Fossil Fuel,619717
+2021,Kings,EV,639
+2021,Kings,Fossil Fuel,98692
+2021,Lake,EV,461
+2021,Lake,Fossil Fuel,66714
+2021,Lassen,EV,26
+2021,Lassen,Fossil Fuel,23823
+2021,Los Angeles,EV,209205
+2021,Los Angeles,Fossil Fuel,6903230
+2021,Madera,EV,903
+2021,Madera,Fossil Fuel,115772
+2021,Marin,EV,12369
+2021,Marin,Fossil Fuel,199428
+2021,Mariposa,EV,108
+2021,Mariposa,Fossil Fuel,19409
+2021,Mendocino,EV,1117
+2021,Mendocino,Fossil Fuel,85815
+2021,Merced,EV,1506
+2021,Merced,Fossil Fuel,205385
+2021,Modoc,EV,7
+2021,Modoc,Fossil Fuel,8736
+2021,Mono,EV,102
+2021,Mono,Fossil Fuel,12548
+2021,Monterey,EV,4753
+2021,Monterey,Fossil Fuel,336102
+2021,Napa,EV,3210
+2021,Napa,Fossil Fuel,113580
+2021,Nevada,EV,1489
+2021,Nevada,Fossil Fuel,92203
+2021,Orange,EV,101782
+2021,Orange,Fossil Fuel,2358722
+2021,Out Of State,EV,0
+2021,Out Of State,Fossil Fuel,0
+2021,Placer,EV,8805
+2021,Placer,Fossil Fuel,332670
+2021,Plumas,EV,91
+2021,Plumas,Fossil Fuel,21913
+2021,Riverside,EV,33888
+2021,Riverside,Fossil Fuel,1796471
+2021,Sacramento,EV,23750
+2021,Sacramento,Fossil Fuel,1147316
+2021,San Benito,EV,1038
+2021,San Benito,Fossil Fuel,55902
+2021,San Bernardino,EV,25249
+2021,San Bernardino,Fossil Fuel,1612110
+2021,San Diego,EV,70095
+2021,San Diego,Fossil Fuel,2514519
+2021,San Francisco,EV,21822
+2021,San Francisco,Fossil Fuel,403474
+2021,San Joaquin,EV,8910
+2021,San Joaquin,Fossil Fuel,572492
+2021,San Luis Obispo,EV,5324
+2021,San Luis Obispo,Fossil Fuel,230362
+2021,San Mateo,EV,32424
+2021,San Mateo,Fossil Fuel,573973
+2021,Santa Barbara,EV,6938
+2021,Santa Barbara,Fossil Fuel,335083
+2021,Santa Clara,EV,86809
+2021,Santa Clara,Fossil Fuel,1352394
+2021,Santa Cruz,EV,6730
+2021,Santa Cruz,Fossil Fuel,210277
+2021,Shasta,EV,1103
+2021,Shasta,Fossil Fuel,148623
+2021,Sierra,EV,10
+2021,Sierra,Fossil Fuel,3955
+2021,Siskiyou,EV,167
+2021,Siskiyou,Fossil Fuel,44588
+2021,Solano,EV,7131
+2021,Solano,Fossil Fuel,353833
+2021,Sonoma,EV,12242
+2021,Sonoma,Fossil Fuel,412861
+2021,Stanislaus,EV,3889
+2021,Stanislaus,Fossil Fuel,418300
+2021,Sutter,EV,604
+2021,Sutter,Fossil Fuel,76936
+2021,Tehama,EV,220
+2021,Tehama,Fossil Fuel,51270
+2021,Trinity,EV,53
+2021,Trinity,Fossil Fuel,12741
+2021,Tulare,EV,2091
+2021,Tulare,Fossil Fuel,340870
+2021,Tuolumne,EV,359
+2021,Tuolumne,Fossil Fuel,56757
+2021,Ventura,EV,17530
+2021,Ventura,Fossil Fuel,676387
+2021,Yolo,EV,3999
+2021,Yolo,Fossil Fuel,152903
+2021,Yuba,EV,457
+2021,Yuba,Fossil Fuel,57869
+2022,Alameda,EV,72557
+2022,Alameda,Fossil Fuel,1057501
+2022,Alpine,EV,29
+2022,Alpine,Fossil Fuel,1045
+2022,Amador,EV,413
+2022,Amador,Fossil Fuel,40697
+2022,Butte,EV,1732
+2022,Butte,Fossil Fuel,151828
+2022,Calaveras,EV,515
+2022,Calaveras,Fossil Fuel,51920
+2022,Colusa,EV,106
+2022,Colusa,Fossil Fuel,19767
+2022,Contra Costa,EV,44133
+2022,Contra Costa,Fossil Fuel,835523
+2022,Del Norte,EV,128
+2022,Del Norte,Fossil Fuel,20045
+2022,El Dorado,EV,4869
+2022,El Dorado,Fossil Fuel,162883
+2022,Fresno,EV,10390
+2022,Fresno,Fossil Fuel,688871
+2022,Glenn,EV,130
+2022,Glenn,Fossil Fuel,24773
+2022,Humboldt,EV,2126
+2022,Humboldt,Fossil Fuel,106882
+2022,Imperial,EV,770
+2022,Imperial,Fossil Fuel,166477
+2022,Inyo,EV,176
+2022,Inyo,Fossil Fuel,19560
+2022,Kern,EV,6880
+2022,Kern,Fossil Fuel,602843
+2022,Kings,EV,886
+2022,Kings,Fossil Fuel,95204
+2022,Lake,EV,600
+2022,Lake,Fossil Fuel,63526
+2022,Lassen,EV,44
+2022,Lassen,Fossil Fuel,23115
+2022,Los Angeles,EV,282343
+2022,Los Angeles,Fossil Fuel,6650471
+2022,Madera,EV,1241
+2022,Madera,Fossil Fuel,113641
+2022,Marin,EV,15449
+2022,Marin,Fossil Fuel,191793
+2022,Mariposa,EV,147
+2022,Mariposa,Fossil Fuel,17290
+2022,Mendocino,EV,1346
+2022,Mendocino,Fossil Fuel,81800
+2022,Merced,EV,2086
+2022,Merced,Fossil Fuel,200238
+2022,Modoc,EV,10
+2022,Modoc,Fossil Fuel,7632
+2022,Mono,EV,144
+2022,Mono,Fossil Fuel,11671
+2022,Monterey,EV,6379
+2022,Monterey,Fossil Fuel,319103
+2022,Napa,EV,4234
+2022,Napa,Fossil Fuel,109871
+2022,Nevada,EV,1946
+2022,Nevada,Fossil Fuel,84769
+2022,Orange,EV,134291
+2022,Orange,Fossil Fuel,2299018
+2022,Out Of State,EV,0
+2022,Out Of State,Fossil Fuel,0
+2022,Placer,EV,12350
+2022,Placer,Fossil Fuel,328962
+2022,Plumas,EV,117
+2022,Plumas,Fossil Fuel,18889
+2022,Riverside,EV,47681
+2022,Riverside,Fossil Fuel,1765291
+2022,Sacramento,EV,32416
+2022,Sacramento,Fossil Fuel,1107136
+2022,San Benito,EV,1485
+2022,San Benito,Fossil Fuel,53803
+2022,San Bernardino,EV,36094
+2022,San Bernardino,Fossil Fuel,1568171
+2022,San Diego,EV,95024
+2022,San Diego,Fossil Fuel,2446883
+2022,San Francisco,EV,28011
+2022,San Francisco,Fossil Fuel,386911
+2022,San Joaquin,EV,12961
+2022,San Joaquin,Fossil Fuel,556150
+2022,San Luis Obispo,EV,6929
+2022,San Luis Obispo,Fossil Fuel,222920
+2022,San Mateo,EV,43165
+2022,San Mateo,Fossil Fuel,567346
+2022,Santa Barbara,EV,8983
+2022,Santa Barbara,Fossil Fuel,325288
+2022,Santa Clara,EV,108243
+2022,Santa Clara,Fossil Fuel,1289536
+2022,Santa Cruz,EV,8169
+2022,Santa Cruz,Fossil Fuel,215275
+2022,Shasta,EV,1516
+2022,Shasta,Fossil Fuel,132514
+2022,Sierra,EV,18
+2022,Sierra,Fossil Fuel,3537
+2022,Siskiyou,EV,241
+2022,Siskiyou,Fossil Fuel,44395
+2022,Solano,EV,9315
+2022,Solano,Fossil Fuel,339309
+2022,Sonoma,EV,15055
+2022,Sonoma,Fossil Fuel,397389
+2022,Stanislaus,EV,5345
+2022,Stanislaus,Fossil Fuel,403896
+2022,Sutter,EV,885
+2022,Sutter,Fossil Fuel,74337
+2022,Tehama,EV,288
+2022,Tehama,Fossil Fuel,56998
+2022,Trinity,EV,63
+2022,Trinity,Fossil Fuel,11910
+2022,Tulare,EV,2826
+2022,Tulare,Fossil Fuel,330357
+2022,Tuolumne,EV,495
+2022,Tuolumne,Fossil Fuel,56034
+2022,Ventura,EV,23713
+2022,Ventura,Fossil Fuel,658712
+2022,Yolo,EV,5077
+2022,Yolo,Fossil Fuel,149982
+2022,Yuba,EV,689
+2022,Yuba,Fossil Fuel,56190
+2023,Alameda,EV,97131
+2023,Alameda,Fossil Fuel,1028698
+2023,Alpine,EV,32
+2023,Alpine,Fossil Fuel,1357
+2023,Amador,EV,536
+2023,Amador,Fossil Fuel,40951
+2023,Butte,EV,2370
+2023,Butte,Fossil Fuel,151420
+2023,Calaveras,EV,703
+2023,Calaveras,Fossil Fuel,52304
+2023,Colusa,EV,130
+2023,Colusa,Fossil Fuel,19582
+2023,Contra Costa,EV,58560
+2023,Contra Costa,Fossil Fuel,825102
+2023,Del Norte,EV,181
+2023,Del Norte,Fossil Fuel,19733
+2023,El Dorado,EV,6272
+2023,El Dorado,Fossil Fuel,162480
+2023,Fresno,EV,14199
+2023,Fresno,Fossil Fuel,683686
+2023,Glenn,EV,181
+2023,Glenn,Fossil Fuel,24710
+2023,Humboldt,EV,2513
+2023,Humboldt,Fossil Fuel,105041
+2023,Imperial,EV,1197
+2023,Imperial,Fossil Fuel,170519
+2023,Inyo,EV,238
+2023,Inyo,Fossil Fuel,19463
+2023,Kern,EV,9647
+2023,Kern,Fossil Fuel,597507
+2023,Kings,EV,1179
+2023,Kings,Fossil Fuel,95631
+2023,Lake,EV,760
+2023,Lake,Fossil Fuel,63373
+2023,Lassen,EV,61
+2023,Lassen,Fossil Fuel,22157
+2023,Los Angeles,EV,392463
+2023,Los Angeles,Fossil Fuel,6514305
+2023,Madera,EV,1739
+2023,Madera,Fossil Fuel,114621
+2023,Marin,EV,19221
+2023,Marin,Fossil Fuel,188135
+2023,Mariposa,EV,197
+2023,Mariposa,Fossil Fuel,18482
+2023,Mendocino,EV,1638
+2023,Mendocino,Fossil Fuel,80638
+2023,Merced,EV,2880
+2023,Merced,Fossil Fuel,199940
+2023,Modoc,EV,16
+2023,Modoc,Fossil Fuel,8221
+2023,Mono,EV,198
+2023,Mono,Fossil Fuel,11831
+2023,Monterey,EV,8505
+2023,Monterey,Fossil Fuel,326269
+2023,Napa,EV,5371
+2023,Napa,Fossil Fuel,108285
+2023,Nevada,EV,2473
+2023,Nevada,Fossil Fuel,87433
+2023,Orange,EV,180716
+2023,Orange,Fossil Fuel,2260910
+2023,Out Of State,EV,15719
+2023,Out Of State,Fossil Fuel,385309
+2023,Placer,EV,16898
+2023,Placer,Fossil Fuel,329303
+2023,Plumas,EV,145
+2023,Plumas,Fossil Fuel,20171
+2023,Riverside,EV,67446
+2023,Riverside,Fossil Fuel,1758805
+2023,Sacramento,EV,45098
+2023,Sacramento,Fossil Fuel,1100057
+2023,San Benito,EV,1935
+2023,San Benito,Fossil Fuel,54840
+2023,San Bernardino,EV,51206
+2023,San Bernardino,Fossil Fuel,1554788
+2023,San Diego,EV,132113
+2023,San Diego,Fossil Fuel,2419003
+2023,San Francisco,EV,37412
+2023,San Francisco,Fossil Fuel,371509
+2023,San Joaquin,EV,19225
+2023,San Joaquin,Fossil Fuel,553941
+2023,San Luis Obispo,EV,9139
+2023,San Luis Obispo,Fossil Fuel,222023
+2023,San Mateo,EV,57455
+2023,San Mateo,Fossil Fuel,543506
+2023,Santa Barbara,EV,11894
+2023,Santa Barbara,Fossil Fuel,323007
+2023,Santa Clara,EV,141417
+2023,Santa Clara,Fossil Fuel,1288696
+2023,Santa Cruz,EV,10109
+2023,Santa Cruz,Fossil Fuel,199421
+2023,Shasta,EV,2001
+2023,Shasta,Fossil Fuel,140884
+2023,Sierra,EV,25
+2023,Sierra,Fossil Fuel,3722
+2023,Siskiyou,EV,305
+2023,Siskiyou,Fossil Fuel,41772
+2023,Solano,EV,12809
+2023,Solano,Fossil Fuel,336055
+2023,Sonoma,EV,19064
+2023,Sonoma,Fossil Fuel,396054
+2023,Stanislaus,EV,7519
+2023,Stanislaus,Fossil Fuel,400864
+2023,Sutter,EV,1147
+2023,Sutter,Fossil Fuel,73888
+2023,Tehama,EV,398
+2023,Tehama,Fossil Fuel,48496
+2023,Trinity,EV,88
+2023,Trinity,Fossil Fuel,11867
+2023,Tulare,EV,3837
+2023,Tulare,Fossil Fuel,331744
+2023,Tuolumne,EV,698
+2023,Tuolumne,Fossil Fuel,54369
+2023,Ventura,EV,31980
+2023,Ventura,Fossil Fuel,651851
+2023,Yolo,EV,6757
+2023,Yolo,Fossil Fuel,152560
+2023,Yuba,EV,961
+2023,Yuba,Fossil Fuel,57567
