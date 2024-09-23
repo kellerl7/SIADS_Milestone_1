@@ -1,0 +1,813 @@
+County,Year,Population
+Alameda             ,2010,1510271
+Amador              ,2010,38091
+Butte               ,2010,220000
+Calaveras           ,2010,45578
+Colusa              ,2010,21419
+Contra Costa        ,2010,1049025
+Del Norte,2010,28610
+El Dorado           ,2010,181058
+Fresno              ,2010,930450
+Glenn               ,2010,28122
+Humboldt            ,2010,134623
+Imperial            ,2010,174528
+Inyo                ,2010,18546
+Kern                ,2010,839631
+Kings               ,2010,152982
+Lake                ,2010,64665
+Lassen              ,2010,34895
+Los Angeles ,2010,9818605
+Madera              ,2010,150865
+Marin               ,2010,252409
+Mariposa            ,2010,18251
+Mendocino           ,2010,87841
+Merced              ,2010,255793
+Modoc               ,2010,9686
+Mono                ,2010,14202
+Monterey            ,2010,415057
+Napa                ,2010,136484
+Nevada              ,2010,98764
+Orange              ,2010,3010232
+Placer              ,2010,348432
+Plumas              ,2010,20007
+Riverside           ,2010,2189641
+Sacramento,2010,1418788
+San Benito  ,2010,55269
+San Bernardino    ,2010,2035210
+San Diego           ,2010,3095313
+San Francisco,2010,805235
+San Joaquin,2010,685306
+San Luis Obispo     ,2010,269637
+San Mateo           ,2010,718451
+Santa Barbara       ,2010,423895
+Santa Clara         ,2010,1781642
+Santa Cruz          ,2010,262382
+Shasta              ,2010,177223
+Sierra              ,2010,3240
+Siskiyou            ,2010,44900
+Solano              ,2010,413344
+Sonoma              ,2010,483878
+Stanislaus          ,2010,514453
+State Total,2010,37253956
+Sutter              ,2010,94737
+Tehama              ,2010,63463
+Trinity             ,2010,13786
+Tulare              ,2010,442179
+Tuolumne            ,2010,55365
+Ventura             ,2010,823318
+Yolo                ,2010,200849
+Yuba                ,2010,72155
+Alameda             ,2011,1527169
+Amador              ,2011,37089
+Butte               ,2011,221377
+Calaveras           ,2011,45561
+Colusa              ,2011,21362
+Contra Costa        ,2011,1061578
+Del Norte,2011,28191
+El Dorado           ,2011,180887
+Fresno              ,2011,938507
+Glenn               ,2011,28252
+Humboldt            ,2011,135894
+Imperial            ,2011,175448
+Inyo                ,2011,18582
+Kern                ,2011,845269
+Kings               ,2011,150073
+Lake                ,2011,65318
+Lassen              ,2011,34416
+Los Angeles ,2011,9872846
+Madera              ,2011,151054
+Marin               ,2011,254256
+Mariposa            ,2011,18180
+Mendocino           ,2011,87787
+Merced              ,2011,259183
+Modoc               ,2011,9653
+Mono                ,2011,14312
+Monterey            ,2011,416582
+Napa                ,2011,136839
+Nevada              ,2011,99035
+Orange              ,2011,3037811
+Placer              ,2011,354618
+Plumas              ,2011,19977
+Riverside           ,2011,2213474
+Sacramento,2011,1431665
+San Benito  ,2011,55835
+San Bernardino    ,2011,2055566
+San Diego           ,2011,3124985
+San Francisco,2011,815714
+San Joaquin,2011,692465
+San Luis Obispo     ,2011,270396
+San Mateo           ,2011,726265
+Santa Barbara       ,2011,424822
+Santa Clara         ,2011,1805407
+Santa Cruz          ,2011,265364
+Shasta              ,2011,178218
+Sierra              ,2011,3244
+Siskiyou            ,2011,44937
+Solano              ,2011,414084
+Sonoma              ,2011,485975
+Stanislaus          ,2011,517840
+State Total,2011,37552880
+Sutter              ,2011,94535
+Tehama              ,2011,63337
+Trinity             ,2011,13945
+Tulare              ,2011,445415
+Tuolumne            ,2011,55306
+Ventura             ,2011,830196
+Yolo                ,2011,202769
+Yuba                ,2011,72841
+Alameda             ,2012,1549193
+Amador              ,2012,37272
+Butte               ,2012,222623
+Calaveras           ,2012,45544
+Colusa              ,2012,21301
+Contra Costa        ,2012,1075165
+Del Norte,2012,28193
+El Dorado           ,2012,180121
+Fresno              ,2012,945656
+Glenn               ,2012,28102
+Humboldt            ,2012,135888
+Imperial            ,2012,177599
+Inyo                ,2012,18617
+Kern                ,2012,853585
+Kings               ,2012,151242
+Lake                ,2012,65573
+Lassen              ,2012,34222
+Los Angeles ,2012,9937750
+Madera              ,2012,151155
+Marin               ,2012,257096
+Mariposa            ,2012,18084
+Mendocino           ,2012,88402
+Merced              ,2012,261779
+Modoc               ,2012,9508
+Mono                ,2012,14181
+Monterey            ,2012,422477
+Napa                ,2012,138249
+Nevada              ,2012,98896
+Orange              ,2012,3073792
+Placer              ,2012,360512
+Plumas              ,2012,19700
+Riverside           ,2012,2239478
+Sacramento,2012,1447519
+San Benito  ,2012,56778
+San Bernardino    ,2012,2072061
+San Diego           ,2012,3155715
+San Francisco,2012,826354
+San Joaquin,2012,699719
+San Luis Obispo     ,2012,272951
+San Mateo           ,2012,735915
+Santa Barbara       ,2012,427960
+Santa Clara         ,2012,1833344
+Santa Cruz          ,2012,267492
+Shasta              ,2012,178865
+Sierra              ,2012,3239
+Siskiyou            ,2012,44778
+Solano              ,2012,418963
+Sonoma              ,2012,488601
+Stanislaus          ,2012,521723
+State Total,2012,37904303
+Sutter              ,2012,94718
+Tehama              ,2012,63202
+Trinity             ,2012,14193
+Tulare              ,2012,449884
+Tuolumne            ,2012,55100
+Ventura             ,2012,835510
+Yolo                ,2012,204087
+Yuba                ,2012,73501
+Alameda             ,2013,1575139
+Amador              ,2013,37044
+Butte               ,2013,224391
+Calaveras           ,2013,45499
+Colusa              ,2013,21418
+Contra Costa        ,2013,1090305
+Del Norte,2013,27752
+El Dorado           ,2013,179663
+Fresno              ,2013,953114
+Glenn               ,2013,27914
+Humboldt            ,2013,135810
+Imperial            ,2013,177731
+Inyo                ,2013,18673
+Kern                ,2013,861948
+Kings               ,2013,150004
+Lake                ,2013,65928
+Lassen              ,2013,33564
+Los Angeles ,2013,9995638
+Madera              ,2013,150652
+Marin               ,2013,258815
+Mariposa            ,2013,17936
+Mendocino           ,2013,89320
+Merced              ,2013,263501
+Modoc               ,2013,9408
+Mono                ,2013,13865
+Monterey            ,2013,425742
+Napa                ,2013,138808
+Nevada              ,2013,99116
+Orange              ,2013,3105236
+Placer              ,2013,365195
+Plumas              ,2013,19345
+Riverside           ,2013,2260809
+Sacramento,2013,1461786
+San Benito  ,2013,57386
+San Bernardino    ,2013,2085599
+San Diego           ,2013,3190323
+San Francisco,2013,839556
+San Joaquin,2013,705545
+San Luis Obispo     ,2013,275482
+San Mateo           ,2013,745842
+Santa Barbara       ,2013,432485
+Santa Clara         ,2013,1861489
+Santa Cruz          ,2013,269714
+Shasta              ,2013,180106
+Sierra              ,2013,3225
+Siskiyou            ,2013,44726
+Solano              ,2013,423373
+Sonoma              ,2013,492751
+Stanislaus          ,2013,525173
+State Total,2013,38237859
+Sutter              ,2013,94496
+Tehama              ,2013,63257
+Trinity             ,2013,14442
+Tulare              ,2013,453530
+Tuolumne            ,2013,55109
+Ventura             ,2013,841501
+Yolo                ,2013,206386
+Yuba                ,2013,74114
+Alameda             ,2014,1597747
+Amador              ,2014,37089
+Butte               ,2014,225737
+Calaveras           ,2014,45461
+Colusa              ,2014,21442
+Contra Costa        ,2014,1104732
+Del Norte,2014,27341
+El Dorado           ,2014,180132
+Fresno              ,2014,959645
+Glenn               ,2014,27946
+Humboldt            ,2014,135895
+Imperial            ,2014,178471
+Inyo                ,2014,18771
+Kern                ,2014,867021
+Kings               ,2014,148974
+Lake                ,2014,66484
+Lassen              ,2014,32908
+Los Angeles ,2014,10037944
+Madera              ,2014,152067
+Marin               ,2014,261931
+Mariposa            ,2014,17865
+Mendocino           ,2014,89569
+Merced              ,2014,264670
+Modoc               ,2014,9312
+Mono                ,2014,13712
+Monterey            ,2014,427425
+Napa                ,2014,140114
+Nevada              ,2014,99490
+Orange              ,2014,3125985
+Placer              ,2014,369910
+Plumas              ,2014,19120
+Riverside           ,2014,2280208
+Sacramento,2014,1476829
+San Benito  ,2014,58212
+San Bernardino    ,2014,2096526
+San Diego           ,2014,3219710
+San Francisco,2014,846661
+San Joaquin,2014,712387
+San Luis Obispo     ,2014,278272
+San Mateo           ,2014,751906
+Santa Barbara       ,2014,437066
+Santa Clara         ,2014,1883691
+Santa Cruz          ,2014,271559
+Shasta              ,2014,180826
+Sierra              ,2014,3218
+Siskiyou            ,2014,44674
+Solano              ,2014,428671
+Sonoma              ,2014,496615
+Stanislaus          ,2014,528123
+State Total,2014,38513119
+Sutter              ,2014,95103
+Tehama              ,2014,63067
+Trinity             ,2014,14692
+Tulare              ,2014,455774
+Tuolumne            ,2014,55315
+Ventura             ,2014,846456
+Yolo                ,2014,206708
+Yuba                ,2014,74755
+Alameda             ,2015,1622205
+Amador              ,2015,37453
+Butte               ,2015,227400
+Calaveras           ,2015,45395
+Colusa              ,2015,21338
+Contra Costa        ,2015,1120530
+Del Norte,2015,26973
+El Dorado           ,2015,180914
+Fresno              ,2015,968417
+Glenn               ,2015,27966
+Humboldt            ,2015,136542
+Imperial            ,2015,179769
+Inyo                ,2015,18765
+Kern                ,2015,873453
+Kings               ,2015,148817
+Lake                ,2015,66975
+Lassen              ,2015,32758
+Los Angeles ,2015,10072887
+Madera              ,2015,152930
+Marin               ,2015,263888
+Mariposa            ,2015,17724
+Mendocino           ,2015,90018
+Merced              ,2015,266740
+Modoc               ,2015,9212
+Mono                ,2015,13674
+Monterey            ,2015,429887
+Napa                ,2015,140654
+Nevada              ,2015,100341
+Orange              ,2015,3148491
+Placer              ,2015,373578
+Plumas              ,2015,19035
+Riverside           ,2015,2302000
+Sacramento,2015,1495130
+San Benito  ,2015,58839
+San Bernardino    ,2015,2114182
+San Diego           ,2015,3248180
+San Francisco,2015,855489
+San Joaquin,2015,724185
+San Luis Obispo     ,2015,279620
+San Mateo           ,2015,758673
+Santa Barbara       ,2015,440902
+Santa Clara         ,2015,1907380
+Santa Cruz          ,2015,274207
+Shasta              ,2015,181253
+Sierra              ,2015,3214
+Siskiyou            ,2015,44550
+Solano              ,2015,433545
+Sonoma              ,2015,499963
+Stanislaus          ,2015,532534
+State Total,2015,38810306
+Sutter              ,2015,95421
+Tehama              ,2015,63405
+Trinity             ,2015,14906
+Tulare              ,2015,458186
+Tuolumne            ,2015,54956
+Ventura             ,2015,849950
+Yolo                ,2015,208343
+Yuba                ,2015,75374
+Alameda             ,2016,1641983
+Amador              ,2016,37663
+Butte               ,2016,228198
+Calaveras           ,2016,45402
+Colusa              ,2016,21531
+Contra Costa        ,2016,1136478
+Del Norte,2016,26960
+El Dorado           ,2016,181630
+Fresno              ,2016,975622
+Glenn               ,2016,27714
+Humboldt            ,2016,137015
+Imperial            ,2016,179897
+Inyo                ,2016,18876
+Kern                ,2016,876846
+Kings               ,2016,148487
+Lake                ,2016,66991
+Lassen              ,2016,32293
+Los Angeles ,2016,10087542
+Madera              ,2016,152819
+Marin               ,2016,264554
+Mariposa            ,2016,17625
+Mendocino           ,2016,90761
+Merced              ,2016,268527
+Modoc               ,2016,9130
+Mono                ,2016,13412
+Monterey            ,2016,434712
+Napa                ,2016,141119
+Nevada              ,2016,100793
+Orange              ,2016,3165028
+Placer              ,2016,379143
+Plumas              ,2016,19017
+Riverside           ,2016,2326213
+Sacramento,2016,1511942
+San Benito  ,2016,59563
+San Bernardino    ,2016,2124990
+San Diego           ,2016,3263004
+San Francisco,2016,861977
+San Joaquin,2016,735670
+San Luis Obispo     ,2016,281046
+San Mateo           ,2016,763530
+Santa Barbara       ,2016,444102
+Santa Clara         ,2016,1923243
+Santa Cruz          ,2016,275625
+Shasta              ,2016,180374
+Sierra              ,2016,3222
+Siskiyou            ,2016,44497
+Solano              ,2016,438420
+Sonoma              ,2016,501553
+Stanislaus          ,2016,537785
+State Total,2016,39036749
+Sutter              ,2016,96065
+Tehama              ,2016,64017
+Trinity             ,2016,15136
+Tulare              ,2016,461170
+Tuolumne            ,2016,55303
+Ventura             ,2016,851155
+Yolo                ,2016,211938
+Yuba                ,2016,76245
+Alameda             ,2017,1656919
+Amador              ,2017,38807
+Butte               ,2017,230412
+Calaveras           ,2017,45355
+Colusa              ,2017,21773
+Contra Costa        ,2017,1147957
+Del Norte,2017,27158
+El Dorado           ,2017,182695
+Fresno              ,2017,983436
+Glenn               ,2017,27786
+Humboldt            ,2017,138027
+Imperial            ,2017,180854
+Inyo                ,2017,18880
+Kern                ,2017,883531
+Kings               ,2017,148079
+Lake                ,2017,67318
+Lassen              ,2017,32459
+Los Angeles ,2017,10107312
+Madera              ,2017,154151
+Marin               ,2017,264366
+Mariposa            ,2017,17501
+Mendocino           ,2017,91368
+Merced              ,2017,271094
+Modoc               ,2017,8979
+Mono                ,2017,13425
+Monterey            ,2017,437800
+Napa                ,2017,140837
+Nevada              ,2017,100998
+Orange              ,2017,3185541
+Placer              ,2017,386586
+Plumas              ,2017,19365
+Riverside           ,2017,2355286
+Sacramento,2017,1530548
+San Benito  ,2017,60499
+San Bernardino    ,2017,2142339
+San Diego           ,2017,3279856
+San Francisco,2017,867378
+San Joaquin,2017,747119
+San Luis Obispo     ,2017,282284
+San Mateo           ,2017,765207
+Santa Barbara       ,2017,445716
+Santa Clara         ,2017,1930897
+Santa Cruz          ,2017,275410
+Shasta              ,2017,180810
+Sierra              ,2017,3236
+Siskiyou            ,2017,44377
+Solano              ,2017,444713
+Sonoma              ,2017,502454
+Stanislaus          ,2017,545273
+State Total,2017,39273915
+Sutter              ,2017,97649
+Tehama              ,2017,64304
+Trinity             ,2017,15381
+Tulare              ,2017,463514
+Tuolumne            ,2017,55133
+Ventura             ,2017,850424
+Yolo                ,2017,214387
+Yuba                ,2017,77751
+Alameda             ,2018,1666247
+Amador              ,2018,39708
+Butte               ,2018,231774
+Calaveras           ,2018,45367
+Colusa              ,2018,21808
+Contra Costa        ,2018,1155105
+Del Norte,2018,27269
+El Dorado           ,2018,185303
+Fresno              ,2018,992091
+Glenn               ,2018,27854
+Humboldt            ,2018,137893
+Imperial            ,2018,181374
+Inyo                ,2018,18906
+Kern                ,2018,891340
+Kings               ,2018,150058
+Lake                ,2018,67890
+Lassen              ,2018,32721
+Los Angeles ,2018,10107841
+Madera              ,2018,155100
+Marin               ,2018,264099
+Mariposa            ,2018,17398
+Mendocino           ,2018,91667
+Merced              ,2018,274768
+Modoc               ,2018,8943
+Mono                ,2018,13319
+Monterey            ,2018,438000
+Napa                ,2018,139786
+Nevada              ,2018,101640
+Orange              ,2018,3192479
+Placer              ,2018,392693
+Plumas              ,2018,19388
+Riverside           ,2018,2375547
+Sacramento,2018,1547095
+San Benito  ,2018,61143
+San Bernardino    ,2018,2153258
+San Diego           ,2018,3294139
+San Francisco,2018,872724
+San Joaquin,2018,755573
+San Luis Obispo     ,2018,282754
+San Mateo           ,2018,766114
+Santa Barbara       ,2018,447377
+Santa Clara         ,2018,1936569
+Santa Cruz          ,2018,274274
+Shasta              ,2018,181792
+Sierra              ,2018,3243
+Siskiyou            ,2018,44315
+Solano              ,2018,447744
+Sonoma              ,2018,499410
+Stanislaus          ,2018,548363
+State Total,2018,39429439
+Sutter              ,2018,99498
+Tehama              ,2018,64789
+Trinity             ,2018,15642
+Tulare              ,2018,466766
+Tuolumne            ,2018,55213
+Ventura             ,2018,850604
+Yolo                ,2018,215708
+Yuba                ,2018,78751
+Alameda             ,2019,1675964
+Amador              ,2019,40227
+Butte               ,2019,227263
+Calaveras           ,2019,45324
+Colusa              ,2019,21745
+Contra Costa        ,2019,1161077
+Del Norte,2019,27567
+El Dorado           ,2019,186714
+Fresno              ,2019,1000679
+Glenn               ,2019,27959
+Humboldt            ,2019,137059
+Imperial            ,2019,181025
+Inyo                ,2019,18938
+Kern                ,2019,898617
+Kings               ,2019,151918
+Lake                ,2019,67902
+Lassen              ,2019,32726
+Los Angeles ,2019,10067476
+Madera              ,2019,155604
+Marin               ,2019,263645
+Mariposa            ,2019,17242
+Mendocino           ,2019,91733
+Merced              ,2019,277693
+Modoc               ,2019,8880
+Mono                ,2019,13305
+Monterey            ,2019,439477
+Napa                ,2019,138982
+Nevada              ,2019,101719
+Orange              ,2019,3192408
+Placer              ,2019,399659
+Plumas              ,2019,19655
+Riverside           ,2019,2394094
+Sacramento,2019,1562887
+San Benito  ,2019,62734
+San Bernardino    ,2019,2169538
+San Diego           ,2019,3302865
+San Francisco,2019,872219
+San Joaquin,2019,767324
+San Luis Obispo     ,2019,282935
+San Mateo           ,2019,765726
+Santa Barbara       ,2019,447907
+Santa Clara         ,2019,1936821
+Santa Cruz          ,2019,272618
+Shasta              ,2019,181573
+Sierra              ,2019,3241
+Siskiyou            ,2019,44273
+Solano              ,2019,450545
+Sonoma              ,2019,494708
+Stanislaus          ,2019,550947
+State Total,2019,39503656
+Sutter              ,2019,101531
+Tehama              ,2019,65030
+Trinity             ,2019,15898
+Tulare              ,2019,469228
+Tuolumne            ,2019,55074
+Ventura             ,2019,847064
+Yolo                ,2019,215874
+Yuba                ,2019,79619
+Alameda             ,2021,1666341
+Amador              ,2021,40047
+Butte               ,2021,207403
+Calaveras           ,2021,45259
+Colusa              ,2021,21774
+Contra Costa        ,2021,1162336
+Del Norte,2021,27450
+El Dorado           ,2021,190737
+Fresno              ,2021,1008202
+Glenn               ,2021,28812
+Humboldt            ,2021,135130
+Imperial            ,2021,180403
+Inyo                ,2021,18981
+Kern                ,2021,905370
+Kings               ,2021,151157
+Lake                ,2021,67778
+Lassen              ,2021,30991
+Los Angeles ,2021,9955445
+Madera              ,2021,155982
+Marin               ,2021,259721
+Mariposa            ,2021,17070
+Mendocino           ,2021,90910
+Merced              ,2021,280944
+Modoc               ,2021,8608
+Mono                ,2021,13191
+Monterey            ,2021,436803
+Napa                ,2021,137128
+Nevada              ,2021,101985
+Orange              ,2021,3172352
+Placer              ,2021,406443
+Plumas              ,2021,19626
+Riverside           ,2021,2419165
+Sacramento,2021,1580120
+San Benito  ,2021,64642
+San Bernardino    ,2021,2179006
+San Diego           ,2021,3286880
+San Francisco,2021,855338
+San Joaquin,2021,780320
+San Luis Obispo     ,2021,278737
+San Mateo           ,2021,756636
+Santa Barbara       ,2021,441552
+Santa Clara         ,2021,1913779
+Santa Cruz          ,2021,265533
+Shasta              ,2021,181483
+Sierra              ,2021,3225
+Siskiyou            ,2021,43905
+Solano              ,2021,450122
+Sonoma              ,2021,484459
+Stanislaus          ,2021,551342
+State Total,2021,39327868
+Sutter              ,2021,99089
+Tehama              ,2021,65336
+Trinity             ,2021,16054
+Tulare              ,2021,474000
+Tuolumne            ,2021,54827
+Ventura             ,2021,839916
+Yolo                ,2021,214911
+Yuba                ,2021,81917
+Alameda             ,2022,1643683
+Amador              ,2022,40010
+Butte               ,2022,206184
+Calaveras           ,2022,45021
+Colusa              ,2022,21722
+Contra Costa        ,2022,1149841
+Del Norte,2022,26982
+El Dorado           ,2022,189294
+Fresno              ,2022,1010177
+Glenn               ,2022,28777
+Humboldt            ,2022,134167
+Imperial            ,2022,180394
+Inyo                ,2022,18916
+Kern                ,2022,908186
+Kings               ,2022,151654
+Lake                ,2022,67597
+Lassen              ,2022,29809
+Los Angeles ,2022,9861493
+Madera              ,2022,157040
+Marin               ,2022,255459
+Mariposa            ,2022,16988
+Mendocino           ,2022,90227
+Merced              ,2022,284038
+Modoc               ,2022,8547
+Mono                ,2022,12987
+Monterey            ,2022,436033
+Napa                ,2022,135564
+Nevada              ,2022,101080
+Orange              ,2022,3158071
+Placer              ,2022,407539
+Plumas              ,2022,19254
+Riverside           ,2022,2427832
+Sacramento,2022,1572254
+San Benito  ,2022,65642
+San Bernardino    ,2022,2179845
+San Diego           ,2022,3278730
+San Francisco,2022,840575
+San Joaquin,2022,782163
+San Luis Obispo     ,2022,279439
+San Mateo           ,2022,742051
+Santa Barbara       ,2022,443074
+Santa Clara         ,2022,1895752
+Santa Cruz          ,2022,264495
+Shasta              ,2022,180206
+Sierra              ,2022,3205
+Siskiyou            ,2022,43571
+Solano              ,2022,447027
+Sonoma              ,2022,479654
+Stanislaus          ,2022,548215
+State Total,2022,39114785
+Sutter              ,2022,99153
+Tehama              ,2022,64942
+Trinity             ,2022,15971
+Tulare              ,2022,474624
+Tuolumne            ,2022,54500
+Ventura             ,2022,831531
+Yolo                ,2022,220176
+Yuba                ,2022,82234
+Alameda             ,2023,1650656
+Amador              ,2023,39924
+Butte               ,2023,206579
+Calaveras           ,2023,44899
+Colusa              ,2023,21831
+Contra Costa        ,2023,1145274
+Del Norte,2023,26586
+El Dorado           ,2023,188067
+Fresno              ,2023,1010914
+Glenn               ,2023,28330
+Humboldt            ,2023,134597
+Imperial            ,2023,179623
+Inyo                ,2023,18890
+Kern                ,2023,906165
+Kings               ,2023,151629
+Lake                ,2023,66698
+Lassen              ,2023,28376
+Los Angeles ,2023,9819312
+Madera              ,2023,157909
+Marin               ,2023,253972
+Mariposa            ,2023,16968
+Mendocino           ,2023,89556
+Merced              ,2023,285193
+Modoc               ,2023,8501
+Mono                ,2023,13193
+Monterey            ,2023,433953
+Napa                ,2023,134508
+Nevada              ,2023,100474
+Orange              ,2023,3141065
+Placer              ,2023,410085
+Plumas              ,2023,18993
+Riverside           ,2023,2428580
+Sacramento,2023,1576639
+San Benito  ,2023,65165
+San Bernardino    ,2023,2172694
+San Diego           ,2023,3290423
+San Francisco,2023,842224
+San Joaquin,2023,783903
+San Luis Obispo     ,2023,279818
+San Mateo           ,2023,745302
+Santa Barbara       ,2023,442342
+Santa Clara         ,2023,1902799
+Santa Cruz          ,2023,263338
+Shasta              ,2023,179122
+Sierra              ,2023,3187
+Siskiyou            ,2023,43479
+Solano              ,2023,445506
+Sonoma              ,2023,479445
+Stanislaus          ,2023,545753
+State Total,2023,39061058
+Sutter              ,2023,98248
+Tehama              ,2023,64710
+Trinity             ,2023,15944
+Tulare              ,2023,474680
+Tuolumne            ,2023,54626
+Ventura             ,2023,825960
+Yolo                ,2023,220454
+Yuba                ,2023,82814
+Alameda             ,2024,1641869
+Amador              ,2024,39611
+Butte               ,2024,205928
+Calaveras           ,2024,44842
+Colusa              ,2024,21743
+Contra Costa        ,2024,1146626
+Del Norte,2024,26345
+El Dorado           ,2024,188583
+Fresno              ,2024,1017431
+Glenn               ,2024,28736
+Humboldt            ,2024,133100
+Imperial            ,2024,182881
+Inyo                ,2024,18856
+Kern                ,2024,910300
+Kings               ,2024,152627
+Lake                ,2024,67001
+Lassen              ,2024,28197
+Los Angeles ,2024,9824091
+Madera              ,2024,159328
+Marin               ,2024,252844
+Mariposa            ,2024,16966
+Mendocino           ,2024,89476
+Merced              ,2024,287303
+Modoc               ,2024,8484
+Mono                ,2024,12861
+Monterey            ,2024,437614
+Napa                ,2024,135029
+Nevada              ,2024,100177
+Orange              ,2024,3150835
+Placer              ,2024,412844
+Plumas              ,2024,18841
+Riverside           ,2024,2442378
+Sacramento,2024,1578938
+San Benito  ,2024,65853
+San Bernardino    ,2024,2181433
+San Diego           ,2024,3291101
+San Francisco,2024,843071
+San Joaquin,2024,791408
+San Luis Obispo     ,2024,278469
+San Mateo           ,2024,741565
+Santa Barbara       ,2024,443623
+Santa Clara         ,2024,1903198
+Santa Cruz          ,2024,262572
+Shasta              ,2024,179195
+Sierra              ,2024,3171
+Siskiyou            ,2024,43409
+Solano              ,2024,446426
+Sonoma              ,2024,478152
+Stanislaus          ,2024,548744
+State Total,2024,39128162
+Sutter              ,2024,100110
+Tehama              ,2024,64308
+Trinity             ,2024,15915
+Tulare              ,2024,478918
+Tuolumne            ,2024,54407
+Ventura             ,2024,823863
+Yolo                ,2024,221666
+Yuba                ,2024,83721
